@@ -1,0 +1,160 @@
+CODE_TEAM;NAME;CITY;CODE_COUNTRY_NUM;NATIONAL_TEAM
+1;Real Madrid Baloncesto;Madrid;724;0
+2;Futbol Club Barcelona;Barcelona;724;0
+3;Club Joventut Badalona;Barcelona;724;0
+4;Saski Baskonia;Baskonia;724;0
+5;Club Baloncesto Estudiantes;Madrid;724;0
+6;Club Baloncesto Malaga;Malaga;724;0
+7;Valencia Basket;Valencia;724;0
+8;Basquet Manresa;Madrid;724;0
+9;Club Baloncesto Gran Canaria;Canarias;724;0
+10;Real Betis Baloncesto;Betis;724;0
+11;Club Baloncesto Valladolid;Valladolid;724;0
+12;ADA Blois;Blois;250;0
+13;AS Monaco Basket;Fontvieille, Monaco;250;0
+14;ASVEL;Villeurbanne;250;0
+15;BCM Gravelines-Dunkerque;Gravelines;250;0
+16;Cholet Basket;Cholet;250;0
+17;Roanne;Roanne;250;0
+18;Elan Bearnais Pau-Lacq-Orthez;Pau;250;0
+19;ESSM Le Portel;Le Portel;250;0
+20;Fos Provence Basket;Fos-sur-Mer;250;0
+21;JDA Dijon Basket;Dijon;250;0
+22;JL Bourg-en-Bresse;Bourg-en-Bresse;250;0
+23;Le Mans Sarthe Basket;Le Mans;250;0
+24;Limoges CSP;Limoges;250;0
+25;Metropolitans 92;Levallois-Perret;250;0
+26;Nanterre 92;Nanterre;250;0
+27;Paris Basketball;Paris;250;0
+28;SIG Basket;Strasbourg;250;0
+29;SLUC Nancy;Nancy;250;0
+30;Alba Berlin;Berlin;276;0
+31;Brose Bamberg;Bamberg;276;0
+32;Crailsheim Merlins;Crailsheim;276;0
+33;medi Bayreuth;Bayreuth;276;0
+34;Telekom Baskets Bonn;Bonn;276;0
+35;Loewen Braunschweig;Braunschweig;276;0
+36;Niners Chemnitz;Chemnitz;276;0
+37;Fraport Skyliners;Frankfurt;276;0
+38;BG Goettingen;Goettingen;276;0
+39;Hamburg Towers;Hamburg;276;0
+40;MLP Academics Heidelberg;Heidelberg;276;0
+41;MHP Riesen Ludwigsburg;Ludwigsburg;276;0
+42;Mitteldeutscher BC;Weißenfels;276;0
+43;Bayern Munich;Munich;276;0
+44;EWE Baskets Oldenburg;Oldenburg;276;0
+45;Rostock Seawolves;Rostock;276;0
+46;ratiopharm Ulm;Ulm;276;0
+47;s.Oliver Wurzburg;Wurzburg;276;0
+48;Minas Tenis Clube;Belo Horizonte;76;0
+49;Franca;Franca;76;0
+50;Flamengo;Rio de Janeiro;76;0
+51;Corinthians Sport Club;Santa Cruz do Sul;76;0
+52;Unitri/Uberlandia;Uberlandia;76;0
+53;Londrina Basquete Clube;Londrina;76;0
+54;Rio Claro;Rio Claro;76;0
+55;Ginastico;Belo Horizonte;76;0
+56;Mogi das Cruzes Basketball Clube;Mogi das Cruzes;76;0
+57;Ribeirao Preto;Ribeirao Preto;76;0
+58;Vasco da Gama;Rio de Janeiro;76;0
+59;Palmeiras;Sao Paulo;76;0
+60;Joinville;Joinville;76;0
+61;Associaçao Bauru Basketball Team;Bauru;76;0
+62;Sogipa;Porto Alegre;76;0
+63;Ajax (Universo/Goiania);Goiania;76;0
+64;Sirio;Sao Paulo;76;0
+65;Banespa;Sao Paulo;76;0
+66;Botafogo;Rio de Janeiro;76;0
+67;Suzano;Suzano;76;0
+68;Ponta Grossa;Ponta Grossa;76;0
+69;Guaru;Guarulhos;76;0
+70;Tijuca Tenis Clube;Rio de Janeiro;76;0
+71;Pinheiros;Sao Paulo;76;0
+72;Casa Branca Basquetebol Clube;Casa Branca;76;0
+73;Associacao Araraquarense de Basquetebol;Araraquara;76;0
+74;Joquei Clube de Goias;Goiania;76;0
+75;Telesp;Sao Paulo;76;0
+76;Franca/Sabesp;Franca;76;0
+77;Franca/Dharma/Yara;Franca;76;0
+78;Liga Angrense;Angra dos Reis;76;0
+79;Bandeirantes;Barueri;76;0
+80;Ulbra Esportes;Porto Alegre;76;0
+81;Hebraica;Sao Paulo;76;0
+82;Automovel Clube de Campos;Campos dos Goytacazes;76;0
+83;Brasilia;Brasilia;76;0
+84;Paulistano;Sao Paulo;76;0
+85;Monte Libano;Sao Paulo;76;0
+86;Pirelli;Sao Paulo;76;0
+87;Nosso Clube;Limeira;76;0
+88;Corinthians;Sao Paulo;76;0
+89;Barueri;Barueri;76;0
+90;Ipiranga;Blumenau;76;0
+91;Fluminense;Rio de Janeiro;76;0
+92;Iguacu Basquete Clube;Nova Iguacu;76;0
+93;Clube de Regatas Saldanha da Gama;Vitoria;76;0
+94;AABB;Brasilia;76;0
+95;Atletico Mineiro;Belo Horizonte;76;0
+96;Lwart-Lwarcel;Sao Paulo;76;0
+97;Ipe/Perdigao/Soler;Sao Paulo;76;0
+98;Uberlandia Tenis Clube;Uberlandia;76;0
+99;Inga;Maringa;76;0
+100;Encol/Coplaven;Goiania;76;0
+101;Akros;Joinville;76;0
+102;Friburgo;Nova Friburgo;76;0
+103;Corinthians/UMC;Mogi das Cruzes;76;0
+104;Uniao Londrina Baskettball;Londrina;76;0
+105;Vasco;Barueri;76;0
+106;Santo Andre;Santo Andre;76;0
+107;Ulbra/Torres;Torres;76;0
+108;Unisanta;Santos;76;0
+109;Sao Caetano;Sao Caetano do Sul;76;0
+110;Winner Basquete Limeira;Limeira;76;0
+111;Blumenau;Blumenau;76;0
+112;Liga Macaense;Macae;76;0
+113;Limeira;Limeira;76;0
+114;Sao Jose dos Pinhais;Sao Jose dos Pinhais;76;0
+115;Telemar;Rio de Janeiro;76;0
+116;Grajau C.C.;Rio de Janeiro;76;0
+117;Vila Velha;Vila Velha;76;0
+118;Faculdade de Tecnologia e Ciencias;Salvador;76;0
+119;Lobos Brasilia;Brasilia;76;0
+120;CETAF - Garoto - UVV;Vila Velha;76;0
+121;Univates/Bira;Lajeado;76;0
+122;Borac;Cacak;688;0
+123;Crvena zvezda mts;Belgrado;688;0
+124;Dunav;Stari Banovci;688;0
+125;Dynamic VIP PAY;Belgrado;688;0
+126;FMP;Belgrado;688;0
+127;Kolubara LA 2003;Lazarevac;688;0
+128;Mega Bemax;Belgrado;688;0
+129;Metalac;Valjevo;688;0
+130;Mladost;Zemun;688;0
+131;Napredak JKP;Aleksinac;688;0
+132;Novi Pazar;Novi Pazar;688;0
+133;OKK Beograd;Belgrado;688;0
+134;Partizan NIS;Belgrado;688;0
+135;Pirot;Pirot;688;0
+136;Radnicki;Kragujevac;688;0
+137;Sloboda;Uzice;688;0
+138;Sloga;Kraljevo;688;0
+139;Tamis;Pancevo;688;0
+140;Vojvodina;Novi Sad;688;0
+141;Vrsac;Vrsac;688;0
+142;AEK;Atenas(Marousi);300;0
+143;Aris;Salonica;300;0
+144;Apollon Patras;Patras;300;0
+145;Ionikos Nikaias;Atenas(Palaio Faliro);300;0
+146;Karditsas;Karditsa;300;0
+147;Kolossos;Rodas;300;0
+148;Lavrio Megabolt;Lavrio;300;0
+149;Olympiacos;Atenas(Piraeus);300;0
+150;Panathinaikos;Atenas(Marousi);300;0
+151;PAOK;Salonica(Pylaia);300;0
+152;Peristeri;Atenas(Peristeri);300;0
+153;Promitheas Patras;Patras;300;0
+154;French National Team;Paris;250;1
+155;Espana National Team;Patras;724;1
+156;Germany National Team;Patras;276;1
+157;Brasil National Team;Patras;76;1
+158;Serbia National Team;Patras;688;1
+159;Greece National Team;Patras;300;1

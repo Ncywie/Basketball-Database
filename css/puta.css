@@ -1,0 +1,129 @@
+* {
+    text-align: center;
+    font-family: sans-serif;
+}
+
+body {
+    
+    background-color: rgb(214, 207, 207);
+    font: Verdana !important;/* <-- fonts */
+    text-align: center;
+}
+
+h2 {
+    font: Arial !important;/* <-- fonts */
+    text-align: center;
+    background-color: #540098;
+    color: #ffffff;
+    
+}
+
+fieldset
+{
+  background-color:rgb(143, 121, 204);
+  max-width:500px;
+  padding:16px;	
+  align-self:center;
+  text-align: center;
+}
+
+styled-legend {
+    background-color: rgb(66, 33, 85);
+    color: #fff;
+    padding: 3px 6px;
+}
+
+.styled-table {
+    border-collapse: collapse;
+    margin: 25px 0;
+    font-size: 0.9em;
+    font-family: sans-serif;
+    min-width: 400px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.styled-table thead tr {
+    background-color: #540098;
+    color: #ffffff;
+    text-align: left;
+}
+.styled-table th,
+.styled-table td {
+    padding: 12px 15px;
+}
+
+.styled-table tbody tr {
+    border-bottom: 1px solid #dddddd;
+}
+
+.styled-table tbody tr:nth-of-type(even) {
+    background-color: #f3f3f3;
+}
+
+.styled-table tbody tr:nth-of-type(odd) {
+    background-color: #c4c4c4;
+}
+
+.styled-table tbody tr:last-of-type {
+    border-bottom: 2px solid #000000;
+}
+
+.styled-text {
+    font: Verdana;
+    background-color: white; /* Green */
+    border: 2px solid #6f4caf;
+    color: black;
+    padding: 5px 10px;
+    font-size: 16px; 
+
+}
+
+.styled-input {
+    font: Verdana;
+    background-color: white; /* Green */
+    border: 2px solid #6f4caf;
+    color: black;
+    padding: 5px 10px;
+    font-size: 16px; 
+
+}
+
+.styled-text2 {
+    color: rgb(255, 255, 255);
+    padding: 5px 10px;
+    font-size: 16px; 
+
+}
+
+.styled-button {
+    background-color: white; /* Green */
+    border: 2px solid #6f4caf;
+    color: black;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;    
+    transition-duration: 0.4s;
+    border-radius: 4px;
+}
+  
+.styled-button:hover {
+    background-color: #6f4caf; /* Green */
+    color: white;
+}
+
+.custom-select {
+    position: relative;
+    font-family: Arial;
+  }
+
+.select-items div,.select-selected {
+    color: #ffffff;
+    padding: 8px 16px;
+    border: 1px solid transparent;
+    border-color: transparent transparent rgba(0, 0, 0, 0.1) transparent;
+    cursor: pointer;
+}
